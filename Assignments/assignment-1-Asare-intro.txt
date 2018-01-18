@@ -1,0 +1,29 @@
+Assignment 1: Introductions
+Link: https://classroom.github.com/a/noUPBTFA
+Due: Tuesday, January 23, 2018 @ 8:00am
+
+Fill in the following three blanks.
+
+
+Name: Nana Asare
+Major: Statistics
+Expected graduation date: Fall 2019
+
+
+Answer the following four questions.
+
+Why are you taking this class?
+To learn how to use python for statistical analysis.
+
+What is your previous programming experience?
+beginner-python
+beginner-SQL 
+intermediate-R
+ 
+What do you want to take away from this class?
+Gain a stronger understanding of programming in python and using it for statistical analysis.
+
+Do you have any apprehensions about this class? If so, describe.
+The critical thinking required for creating coding.
+Keeping up with projects.
+
